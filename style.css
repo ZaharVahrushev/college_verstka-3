@@ -141,7 +141,7 @@ header {
 }
 
 .header-right-bottom {
-    width: 1850px;
+    width: 100%;
     
 }
 
@@ -181,7 +181,7 @@ main {
     align-items: center;
 }
 .section-1-conatainer {
-    width: 70%;
+    width: 75%;
     height: 381px;
 }
 .section-1-conatainer-inf {
@@ -263,7 +263,7 @@ main {
     justify-content: center;
 }
 .section-2-conatainer {
-    width: 70%;
+    width: 75%;
     height: 718px;
 }
 
@@ -376,7 +376,7 @@ main {
     justify-content: center;
 }
 .section-3-conatainer {
-    width: 70%;
+    width: 75%;
     height: 458px;
 }
 .section-3-conatainer-inf {
@@ -497,8 +497,10 @@ main {
     justify-content: center;
 }
 .section-4-conatainer {
-    width: 70%;
+    width: 75%;
     height: 558px;
+
+    
 }
 .section-4-conatainer-inf {
     width: 100%;
@@ -533,6 +535,8 @@ main {
     display: flex;
     justify-content: space-between;
     
+
+    position: relative;
 }
 .cards-time {
     width: 416px;
@@ -579,8 +583,11 @@ main {
     background: #5b5b5b;
 
     position: absolute;
-    left: 40%;
-    top: 3320px;
+    left: 33%;
+    top: 10%;
+    
+    /* left: 40%;
+    top: 3320px; */
 }
 
 .card-inf-container {
@@ -688,7 +695,7 @@ footer {
 }
 
 .footer-container {
-    width: 70%;
+    width: 75%;
     height: 100%;
     display: flex;
     justify-content: space-between;
