@@ -5,9 +5,9 @@
 /* Thin (100) */
 @font-face {
 	font-family: 'Circe';
-	src: url('../fonts/circe_thin.woff2') format('woff2'),
-	     url('../fonts/circe_thin.woff') format('woff'),
-	     url('../fonts/circe_thin.ttf') format('truetype');
+	src: url('./fonts/circe_thin.woff2') format('woff2'),
+	     url('./fonts/circe_thin.woff') format('woff'),
+	     url('./fonts/circe_thin.ttf') format('truetype');
 	font-weight: 100;
 	font-style: normal;
 	font-display: swap;
@@ -16,9 +16,9 @@
 /* ExtraLight (200) */
 @font-face {
 	font-family: 'Circe';
-	src: url('../fonts/circe_extralight.woff2') format('woff2'),
-	     url('../fonts/circe_extralight.woff') format('woff'),
-	     url('../fonts/circe_extralight.ttf') format('truetype');
+	src: url('./fonts/circe_extralight.woff2') format('woff2'),
+	     url('./fonts/circe_extralight.woff') format('woff'),
+	     url('./fonts/circe_extralight.ttf') format('truetype');
 	font-weight: 200;
 	font-style: normal;
 	font-display: swap;
@@ -27,9 +27,9 @@
 /* Light (300) */
 @font-face {
 	font-family: 'Circe';
-	src: url('../fonts/circe_light.woff2') format('woff2'),
-	     url('../fonts/circe_light.woff') format('woff'),
-	     url('../fonts/circe_light.ttf') format('truetype');
+	src: url('./fonts/circe_light.woff2') format('woff2'),
+	     url('./fonts/circe_light.woff') format('woff'),
+	     url('./fonts/circe_light.ttf') format('truetype');
 	font-weight: 300;
 	font-style: normal;
 	font-display: swap;
@@ -38,9 +38,9 @@
 /* Regular (400) */
 @font-face {
 	font-family: 'Circe';
-	src: url('../fonts/circe.woff2') format('woff2'),
-	     url('../fonts/circe.woff') format('woff'),
-	     url('../fonts/circe.ttf') format('truetype');
+	src: url('./fonts/circe.woff2') format('woff2'),
+	     url('./fonts/circe.woff') format('woff'),
+	     url('./fonts/circe.ttf') format('truetype');
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
@@ -49,7 +49,7 @@
 /* Bold (700) */
 @font-face {
 	font-family: 'Circe';
-	src:url('../fonts/circe_bold.woff2') format('woff2'), url('../fonts/circe_bold.woff') format('woff'), url('../fonts/circe_bold.ttf') format('truetype');
+	src:url('./fonts/circe_bold.woff2') format('woff2'), url('../fonts/circe_bold.woff') format('woff'), url('../fonts/circe_bold.ttf') format('truetype');
 	font-weight: 700;
 	font-style: normal;
 	font-display: swap;
@@ -58,9 +58,9 @@
 /* ExtraBold (800) */
 @font-face {
 	font-family: 'Circe';
-	src: url('../fonts/circe_extrabold.woff2') format('woff2'),
-	     url('../fonts/circe_extrabold.woff') format('woff'),
-	     url('../fonts/circe_extrabold.ttf') format('truetype');
+	src: url('./fonts/circe_extrabold.woff2') format('woff2'),
+	     url('./fonts/circe_extrabold.woff') format('woff'),
+	     url('./fonts/circe_extrabold.ttf') format('truetype');
 	font-weight: 800;
 	font-style: normal;
 	font-display: swap;
