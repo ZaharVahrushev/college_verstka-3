@@ -1,5 +1,6 @@
 @import url(./circe.css);
 
+
 button {
     cursor: pointer;
 }
@@ -720,3 +721,6 @@ footer {
     line-height: 140%;
     color: #fff;
 }
+
+@import url(./media.css);
+@import url(./adaptive.css);
